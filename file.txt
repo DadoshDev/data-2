@@ -1,1 +1,3 @@
-Initial content
+[master (root-commit) 4377466] Initial commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file.txt
